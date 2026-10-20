@@ -6,7 +6,7 @@ The project demonstrates how to separate voyage-planning orchestration, route ge
 
 <!-- Replace the path below with the repository's actual logo path. -->
 <p align="center">
-  <img src="assets/logos/maritime-logo.png" alt="Maritime Route Optimization logo" width="180">
+  <img src="assets/logos/maritimeopt-logo.png" alt="Maritime Route Optimization logo" width="180">
 </p>
 
 <p align="center">
@@ -539,3 +539,15 @@ These are future extensions, not claims about current capabilities. They should 
 This repository is an architectural reference for maritime voyage planning and route optimization. Its central design principle is to keep candidate generation, evaluation, objective scoring, and application orchestration separate behind explicit contracts.
 
 The intended next step is to validate the reference voyage scenario and its acceptance criteria, then evolve the domain-specific components while preserving the architecture where the evidence supports it.
+
+## Contributing
+
+Development practices, contribution guidelines, architectural decisions, and project governance will be documented as the project matures.
+
+## License
+
+The project license will be established before the first public software release.
+
+## Maintainer
+
+MaritimeOpt is developed and maintained by Chris Romero.
