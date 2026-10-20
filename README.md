@@ -29,6 +29,9 @@ The project demonstrates how to separate voyage-planning orchestration, route ge
 - [Example Request](#example-request)
 - [Intentionally Deferred Work](#intentionally-deferred-work)
 - [Technology Stack](#technology-stack)
+- [Project Status](#project-status)
+- [License](#license)
+- [Maintainer](#maintainer)
 
 ---
 
