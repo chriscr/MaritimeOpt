@@ -6,8 +6,7 @@ The project demonstrates how to separate voyage-planning orchestration, route ge
 
 <!-- Replace the path below with the repository's actual logo path. -->
 <p align="center">
-  <img src="assets/logos/maritimeopt-logo.png" alt="Maritime Route Optimization logo" width="30
-  0">
+  <img src="assets/logos/maritimeopt-logo.png" alt="Maritime Route Optimization logo" width="300">
 </p>
 
 <p align="center">
